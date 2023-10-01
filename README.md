@@ -47,7 +47,7 @@ Resume
 #### Screenshot of repo
 <img width="833" alt="Screenshot 2023-10-01 at 6 50 40 PM" src="https://github.com/vishutupili/vishutupili.github.io/assets/71949354/f57e0657-d779-433f-9760-d7db8a07e3cc">
 
-### Screenshot of "Places Travelled" section
+#### Screenshot of "Places Travelled" section
 <img width="1455" alt="Screenshot 2023-10-01 at 6 52 49 PM" src="https://github.com/vishutupili/vishutupili.github.io/assets/71949354/426c4e87-b54c-4cbe-87ea-49be27aff3be">
 
 
