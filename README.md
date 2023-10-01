@@ -36,4 +36,12 @@ Contact
 Resume
 <img width="1458" alt="Screenshot 2023-10-01 at 2 23 32 AM" src="https://github.com/vishutupili/vishutupili.github.io/assets/71949354/7adda751-2919-4caa-983e-6c6248264e6c">
 
+### Activity 3
+#### Screenshot of repo
+<img width="747" alt="Screenshot 2023-10-01 at 1 20 25 PM" src="https://github.com/vishutupili/vishutupili.github.io/assets/71949354/a80f6436-0fa0-4655-af88-afc563851ed2">
+
+#### Screenshot of homepage
+<img width="1457" alt="Screenshot 2023-10-01 at 1 22 02 PM" src="https://github.com/vishutupili/vishutupili.github.io/assets/71949354/f4e95cc5-6c22-4508-90f9-e8f0b3480b53">
+
+
 
